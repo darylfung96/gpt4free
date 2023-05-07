@@ -17,3 +17,4 @@ xtempmail
 faker
 retrying
 mailgw_temporary_email
+pycryptodome
